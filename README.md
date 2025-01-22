@@ -4,5 +4,5 @@
 # Predict_ETF_StockPrice_LineBot.ipynb - open by google colab. It creates a linebot and allow user to inquiry 0050 and 0056 predict next day price
 # 0050.xlsx - 0050 ETF next day predict price
 # 0051.xlsx - 0051 ETF next day predict price
-# 0056_ETF_Price_Prediction - 0056 ETF price trend
-# 0050_ETF_Price_Prediction - 0050 ETF price trend
+# 0056_ETF_Price_Prediction.png - 0056 ETF price trend
+# 0050_ETF_Price_Prediction.png - 0050 ETF price trend
